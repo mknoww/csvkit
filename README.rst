@@ -1,6 +1,6 @@
 .. image:: https://github.com/wireservice/csvkit/workflows/CI/badge.svg
     :target: https://github.com/wireservice/csvkit/actions
-    :alt: Build status
+    :alt: Build Status
 
 .. image:: https://coveralls.io/repos/wireservice/csvkit/badge.svg?branch=master
     :target: https://coveralls.io/r/wireservice/csvkit
